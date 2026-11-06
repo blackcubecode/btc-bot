@@ -1,0 +1,26 @@
+# Credentials & secrets
+.env
+*.env
+
+# Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+.pytest_cache/
+
+# Logs
+logs/*.log
+logs/archive/
+
+# Models & data
+models/*.pkl
+data/store/*.parquet
+
+# Backup & temp
+_backup_*/
+*.bak
+*.bak.*
+tmp/
+.DS_Store
