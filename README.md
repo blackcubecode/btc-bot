@@ -441,3 +441,16 @@ Trading cryptocurrency, khususnya Binance Futures dengan leverage, memiliki risi
 Developed by Black Cube Code.
 
 Repository: [https://github.com/blackcubecode/btc-bot](https://github.com/blackcubecode/btc-bot)
+## 💖 Support dan Donasi
+
+Jika proyek ini bermanfaat, dukung pengembangan Black Cube ScannerFX melalui donasi sukarela.
+
+<p align="center">
+  <img src="qris-donasi.jpg" width="300" alt="QRIS Donasi Black Cube Code">
+</p>
+
+<p align="center">
+  <em>Terima kasih atas dukungan Anda untuk pengembangan software independen.</em>
+</p>
+
+---
