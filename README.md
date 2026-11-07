@@ -1095,3 +1095,4 @@ Jika proyek ini bermanfaat, dukung pengembangan Black Cube Code melalui donasi s
 ---
 
 **Black Cube Code — BTC Futures Trading Bot**
+**Telegram:** [@blackcubecodeadmin](https://t.me/blackcubecodeadmin)
